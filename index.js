@@ -1,7 +1,7 @@
 'use strict';
 
 var acorn = require('acorn');
-var objectAssign = require('object-assign');
+/* var objectAssign = require('object-assign'); */
 
 module.exports = isExpression;
 
